@@ -1,0 +1,10 @@
+h3{
+    font-weight: 800;
+}
+div{
+    border: 5px solid burlywood;
+    border-radius: 5px;
+}
+p{
+    color: darkgreen;
+}
