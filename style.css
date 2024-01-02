@@ -8,3 +8,7 @@ div{
 p{
     color: darkgreen;
 }
+#second{
+    border: 6px solid black;
+    background-color: bisque;
+}
